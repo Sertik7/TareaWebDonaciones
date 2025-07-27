@@ -1,4 +1,5 @@
 <?php
+#Conexion mysqli
 $host = 'localhost';
 $usuario = 'root';
 $contrasena = ''; 
